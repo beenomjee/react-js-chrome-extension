@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "My Extension",
+  "version": "1.0.1",
+  "description": "A plain text description",
+  "icons": {
+    "16": "logo192.png",
+    "32": "logo192.png",
+    "48": "logo192.png",
+    "128": "logo512.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "logo192.png",
+      "24": "logo192.png",
+      "32": "logo192.png"
+    },
+    "default_title": "Click Me",
+    "default_popup": "index.html"
+  }
+}

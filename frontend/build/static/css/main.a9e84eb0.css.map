@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a9e84eb0.css","mappings":"AAAA,OACE,SACF,CAEA,MAEE,gBAAiB,CACjB,eAAgB,CAFhB,WAGF","sources":["styles.css"],"sourcesContent":[".error {\r\n  color: red;\r\n}\r\n\r\n.biba {\r\n  width: 400px;\r\n  aspect-ratio: 1/1;\r\n  overflow-y: auto;\r\n}\r\n"],"names":[],"sourceRoot":""}

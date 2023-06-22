@@ -1,0 +1,9 @@
+.error {
+  color: red;
+}
+
+.biba {
+  width: 400px;
+  aspect-ratio: 1/1;
+  overflow-y: auto;
+}
